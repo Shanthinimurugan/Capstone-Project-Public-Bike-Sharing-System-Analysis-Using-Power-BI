@@ -5,6 +5,7 @@ A Public Bike Sharing System enables users to rent and return bikes at designate
 ## 📌 Project Overview
 
 This project uses **Power BI** to analyze operational data from a public bike-sharing system. The dashboard evaluates station performance, bike and dock availability, utilization rates, station status, banking facilities, and bonus stations. Through interactive visualizations, the project helps identify usage patterns, operational bottlenecks, and opportunities to improve the efficiency of the bike-sharing network.
+
 ---
 
 # 🎯 Project Objectives
@@ -56,7 +57,7 @@ The following preprocessing steps were performed using Power Query:
 - Created Empty Stand %
 - Created DAX measures and calculated tables
 
-No table relationships were required because the project uses a single data table for analysis. :contentReference[oaicite:4]{index=4}
+No table relationships were required because the project uses a single data table for analysis. 
 
 ---
 
@@ -80,6 +81,7 @@ The dashboard includes:
 # 📈 Key Insights
 
 The analysis revealed that the bike-sharing network consists of 2,856 station records across 1,028 unique stations, with 92.79% of stations operational. Lyon has the largest bike-sharing network, while Marseille experiences the highest number of unavailable bikes and bike stands, indicating a need for improved bike redistribution. High-capacity cities such as Lyon, Toulouse, and Bruxelles-Capitale are expected to continue experiencing high demand, whereas stations with high bike utilization may require proactive redistribution during peak periods. These insights highlight the importance of optimizing bike redistribution, expanding infrastructure in high-demand locations, improving maintenance, and leveraging hourly availability trends to enhance the overall efficiency and reliability of the public bike-sharing system.
+
 ---
 
 # 📌 Dashboard Preview
@@ -115,7 +117,7 @@ The dashboard enables operators to:
 
 # 📚 Conclusion
 
-The **Public Bike Sharing System Analysis** demonstrates how Power BI can transform operational data into meaningful business insights. The analysis identified high-demand cities, station utilization patterns, bike availability, and operational challenges such as bike shortages and underutilized stations. These insights help optimize bike redistribution, improve station management, and enhance the efficiency and reliability of the bike-sharing network. :contentReference[oaicite:9]{index=9}
+The **Public Bike Sharing System Analysis** demonstrates how Power BI can transform operational data into meaningful business insights. The analysis identified high-demand cities, station utilization patterns, bike availability, and operational challenges such as bike shortages and underutilized stations. These insights help optimize bike redistribution, improve station management, and enhance the efficiency and reliability of the bike-sharing network. 
 
 ---
 
